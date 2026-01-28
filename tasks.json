@@ -1,12 +1,30 @@
 [
   {
     "id": 1,
-    "title": "programar en python",
-    "done": false
+    "description": "cantar",
+    "status": "toDo",
+    "createdAt": "2026-01-28T17:43:52.868613",
+    "updatedAt": "2026-01-28T17:43:52.868625"
   },
   {
     "id": 2,
-    "title": "mejorar la app CLI",
-    "done": false
+    "description": "programar en python",
+    "status": "in progress",
+    "createdAt": "2026-01-28T17:44:09.477302",
+    "updatedAt": "2026-01-28T17:44:35.234185"
+  },
+  {
+    "id": 3,
+    "description": "escuchar musica",
+    "status": "done",
+    "createdAt": "2026-01-28T18:00:51.836363",
+    "updatedAt": "2026-01-28T18:10:54.366537"
+  },
+  {
+    "id": 4,
+    "description": "meditar",
+    "status": "toDo",
+    "createdAt": "2026-01-28T18:00:57.088935",
+    "updatedAt": "2026-01-28T18:00:57.088949"
   }
 ]
