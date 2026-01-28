@@ -1,0 +1,1 @@
+This is the first Python project I did to practice the language and my programming skills. It is thought to be used by adding a .bat archive to PATH or by opening the .py through the terminal.
